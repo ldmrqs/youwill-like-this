@@ -12,7 +12,7 @@ an AI experimental project where an AI bot gives you music recommendations that 
 
 ### backend
 - **fastAPI** - modern Python web framework with automatic docs
-- **aWS bedrock** - claude AI for intelligent recommendations
+- **AWS bedrock** - claude AI for intelligent recommendations
 - **docker** - containerization for consistent development
 - **pydantic** - data validation and serialization
 - **terraform** - infrastructure as code for AWS resources
